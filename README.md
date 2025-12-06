@@ -1,11 +1,10 @@
-# 👨‍💻 Guilherme Scaglia
+# 👨‍💻Guilherme Scaglia
 
-**`Desenvolvedor Full Stack | Explorador de Código`**
+**`Desenvolvedor FullStack`**
 
-Bem-vindo ao meu GitHub! Aqui você encontra meus experimentos e projetos, do front-end ao back-end, com foco em **C#**, **.NET** e **Blazor**.  
-Sou graduando em Engenharia da Computação pela Uniararas – FHO e estou sempre em busca de aprender algo novo. Aqui, você vai encontrar desde **projetos de ciência de dados**, **interfaces web modernas** até **aplicações completas com back-end robusto**.
-
-💡 Curiosidade: meu GitHub também é um laboratório de testes para ideias loucas de código.  
+Bem-vindo ao meu GitHub! Aqui você encontra minha jornada como desenvolvedor, desde os primeiros passos até projetos mais completos. Atuo como desenvolvedor Full Stack com foco em C# e .NET, utilizando Blazor para construir aplicações web integradas — front-end e back-end.
+Sou graduando em Engenharia da Computação pela Uniararas – FHO, e estou sempre em busca de aprendizado e evolução constante. Este repositório é o reflexo da minha escalada de conhecimento: você vai encontrar códigos voltados à ciência de dados, projetos básicos de front-end, aplicações web completas com back-end, e outras explorações técnicas em diferentes áreas da programação.
+Compartilho parte desses projetos também no LinkedIn, onde busco trocar experiências com outros profissionais e contribuir para a comunidade de tecnologia. 
 
 <div align="center"> 
   <a href="https://www.instagram.com/scaglia05" target="_blank">
@@ -36,11 +35,15 @@ Sou graduando em Engenharia da Computação pela Uniararas – FHO e estou sempr
 </div>
 
 
-### 📊 Estatísticas GitHub
+### 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Scaglia05&show_icons=true&theme=radical&count_private=true&hide_title=false&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scaglia05&theme=radical&layout=compact&langs_count=9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Scaglia05&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scaglia05&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
 
----
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Scaglia05/Scaglia05/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Scaglia05/Scaglia05/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Scaglia05/Scaglia05/output/github-contribution-grid-snake.svg">
+</picture>
