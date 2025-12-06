@@ -38,11 +38,9 @@ Compartilho parte desses projetos também no LinkedIn, onde busco trocar experi�
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma.vercel.app/api?username=Scaglia05&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"/>
-  
-  <img height="180em" src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=Scaglia05&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Scaglia05&show_icons=true&theme=dark-aura&include_all_commits=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scaglia05&theme=dark-aura&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Scaglia05/Scaglia05/output/github-contribution-grid-snake-dark.svg">
