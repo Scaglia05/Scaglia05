@@ -1,49 +1,86 @@
-# 👨‍💻Guilherme Scaglia
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7F63F2&center=true&vCenter=true&width=650&lines=Ol%C3%A1,+sou+Guilherme+Scaglia;Desenvolvedor+FullStack+.NET;Apaixonado+por+C%23+e+Blazor" alt="Typing SVG" />
+</div>
 
-**`Desenvolvedor FullStack`**
-
-Bem-vindo ao meu GitHub! Aqui você encontra minha jornada como desenvolvedor, desde os primeiros passos até projetos mais completos. Atuo como desenvolvedor Full Stack com foco em C# e .NET, utilizando Blazor para construir aplicações web integradas — front-end e back-end.
-Sou graduando em Engenharia da Computação pela Uniararas – FHO, e estou sempre em busca de aprendizado e evolução constante. Este repositório é o reflexo da minha escalada de conhecimento: você vai encontrar códigos voltados à ciência de dados, projetos básicos de front-end, aplicações web completas com back-end, e outras explorações técnicas em diferentes áreas da programação.
-Compartilho parte desses projetos também no LinkedIn, onde busco trocar experiências com outros profissionais e contribuir para a comunidade de tecnologia. 
-
-<div align="center"> 
-  <a href="https://www.instagram.com/scaglia05" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:guiscaglia2011@hotmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<div align="center">
   <a href="https://www.linkedin.com/in/guilherme-scaglia-654a63236/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a> 
+  <a href="mailto:guiscaglia2011@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+<table border="0">
+<tr>
+<td width="60%" valign="center">
+
+### 👋 Sobre Mim
+
+Sou graduando em **Engenharia da Computação** na Uniararas – FHO. 
+Meu foco é construir aplicações web robustas e escaláveis, unindo a potência do **.NET** com a interatividade do **Blazor**.
+
+🔭 **Atualmente trabalhando em:**
+- Aplicações Web Full Stack
+- Análise de Dados
+
+🌱 **Aprendendo:**
+- Arquitetura de Microsserviços
+- Cloud Computing (Azure)
+
+⚡ **Curiosidade:** Adoro explorar novas arquiteturas e transformar café em código limpo.
+
+</td>
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Arsenal Tecnológico
 
-<div align="center">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="Blazor / .NET">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
+**💻 Back-end & Core**
+<div style="display: inline_block">
+  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
+<br/>
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Scaglia05&show_icons=true&theme=dark-aura&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scaglia05&theme=dark-aura&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+**🎨 Front-end**
+<div style="display: inline_block">
+  <img align="center" alt="Blazor" src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Scaglia05/Scaglia05/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Scaglia05/Scaglia05/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Scaglia05/Scaglia05/output/github-contribution-grid-snake.svg">
-</picture>
+<br/>
+
+**🚀 Infra & Ferramentas**
+<div style="display: inline_block">
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Scaglia05&show_icons=true&theme=dark-aura&hide_border=true&include_all_commits=true&locale=pt-br" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scaglia05&theme=dark-aura&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" />
+</div>
+
+<div align="center">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Scaglia05/Scaglia05/output/github-contribution-grid-snake.svg">
+</div>
