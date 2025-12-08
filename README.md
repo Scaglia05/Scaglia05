@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7F63F2&center=true&vCenter=true&width=650&lines=Ol%C3%A1,+sou+Guilherme+Scaglia;Desenvolvedor+FullStack;Bem-vindo+ao+meu+perfil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=fe428e&center=true&vCenter=true&width=650&lines=Ol%C3%A1,+sou+Guilherme+Scaglia;Desenvolvedor+FullStack;Bem-vindo+ao+meu+perfil" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -77,7 +77,6 @@ Meu foco é construir aplicações web robustas e escaláveis, unindo a potênci
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Scaglia05&show_icons=true&theme=radical&hide_border=true&locale=pt-br" />
-  
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Scaglia05&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" />
 </div>
 
