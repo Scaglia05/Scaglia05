@@ -76,9 +76,9 @@ Meu foco é construir aplicações web robustas e escaláveis, unindo a potênci
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Scaglia05&show_icons=true&theme=dark-aura&hide_border=true&include_all_commits=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Scaglia05&show_icons=true&theme=radical&hide_border=true&locale=pt-br" />
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scaglia05&theme=dark-aura&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Scaglia05&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" />
 </div>
 
 <div align="center">
