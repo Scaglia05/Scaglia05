@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=fe428e&center=true&vCenter=true&width=650&lines=Ol%C3%A1,+sou+Guilherme+Scaglia;Desenvolvedor+FullStack;Bem-vindo+ao+meu+perfil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=08D9D6&center=true&vCenter=true&width=650&lines=Guilherme+Scaglia;Full+Stack+Developer+Jr.;C%23+%7C+.NET+%7C+Blazor+%7C+SQL;Focado+em+arquitetura+e+performance" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,24 +18,20 @@
 <tr>
 <td width="60%" valign="center">
 
-### 👋 Sobre Mim
+### 👋 Olá!
 
-Sou graduando em **Engenharia da Computação** na Uniararas – FHO. 
-Meu foco é construir aplicações web robustas e escaláveis, unindo a potência do **.NET** com a interatividade do **Blazor**.
+Sou o Guilherme. Atualmente cursando **Engenharia da Computação** na FHO e gastando boa parte do meu tempo codando no ecossistema **.NET**. Meu foco principal é construir coisas que funcionem bem no mundo real, usando **Blazor** no front e C# no back.
 
-🔭 **Atualmente trabalhando em:**
-- Aplicações Web Full Stack
-- Análise de Dados
+**No que venho trabalhando:**
+* Desenvolvimento Full Stack (C# / .NET)
+* Manipulação e análise de dados com Python
+* Migrando meus estudos para Microsserviços e infra na Azure
 
-🌱 **Aprendendo:**
-- Arquitetura de Microsserviços
-- Cloud Computing (Azure)
-
-⚡ **Curiosidade:** Adoro explorar novas arquiteturas e transformar café em código limpo.
+Gosto de entender como as ferramentas funcionam de verdade, além do básico.
 
 </td>
 <td width="40%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRyeGZpeGZpeGZpeGZpeGZpeGZpeGZpeGZpeGZpeGZpeGZpeGZpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%">
 </td>
 </tr>
 </table>
