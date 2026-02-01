@@ -27,8 +27,6 @@ Sou o Guilherme. Atualmente cursando **Engenharia da Computação** na FHO e gas
 * Manipulação e análise de dados com Python
 * Migrando meus estudos para Microsserviços e infra na Azure
 
-Gosto de entender como as ferramentas funcionam de verdade, além do básico.
-
 </td>
 <td width="40%" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRyeGZpeGZpeGZpeGZpeGZpeGZpeGZpeGZpeGZpeGZpeGZpeGZpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%">
