@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="170" viewBox="0 0 300 170">
+  <style>
+    .card   { animation: surgir .8s ease-out 0.25s both; }
+    .nome   { font: 600 16px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #08D9D6; }
+    .desc   { font: 400 12.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c9d1d9; }
+    .meta   { font: 400 11.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #8b949e; }
+    .topico { font: 500 10.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #08D9D6; text-anchor: middle; }
+    .pilula { fill: #08D9D6; fill-opacity: .12; }
+    @keyframes surgir { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  </style>
+  <clipPath id="borda"><rect width="300" height="170" rx="12"/></clipPath>
+  <g class="card">
+    <g clip-path="url(#borda)">
+      <rect width="300" height="170" fill="#0d1117"/>
+      <rect width="300" height="4" fill="#08D9D6"/>
+    </g>
+    <rect x=".5" y=".5" width="299" height="169" rx="12" fill="none" stroke="#30363d"/>
+    <text x="20" y="38" class="nome">Yuta.FactoryOps</text>
+    <text x="20" y="66" class="desc">A plataforma FactoryOps é um ecossistema</text><text x="20" y="84" class="desc">industrial de alta tecnologia projetado</text><text x="20" y="102" class="desc">pela YUTA LTDA para unificar o…</text>
+    
+    <circle cx="25" cy="150" r="5" fill="#178600"/><text x="35" y="154" class="meta">C#</text><text x="280" y="154" class="meta" text-anchor="end">03/08/2026</text>
+  </g>
+</svg>
