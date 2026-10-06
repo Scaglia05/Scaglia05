@@ -15,9 +15,9 @@
       <rect width="300" height="4" fill="#08D9D6"/>
     </g>
     <rect x=".5" y=".5" width="299" height="169" rx="12" fill="none" stroke="#30363d"/>
-    <text x="20" y="38" class="nome">fho-data-auto-mpg</text>
-    <text x="20" y="66" class="desc">Análise e modelo de regressão para</text><text x="20" y="84" class="desc">prever consumo de combustível (mpg) com</text><text x="20" y="102" class="desc">o dataset Auto-MPG — projeto FHO-DATA…</text>
-    <rect x="20" y="117" width="66" height="18" rx="9" class="pilula"/><text x="53" y="130" class="topico">auto-mpg</text><rect x="91.6" y="117" width="90" height="18" rx="9" class="pilula"/><text x="137" y="130" class="topico">data-science</text><rect x="188.0" y="117" width="35" height="18" rx="9" class="pilula"/><text x="205" y="130" class="topico">fho</text>
-    <circle cx="25" cy="150" r="5" fill="#3572A5"/><text x="35" y="154" class="meta">Python</text><text x="280" y="154" class="meta" text-anchor="end">25/07/2026</text>
+    <text x="20" y="38" class="nome">Yuta.FactoryOps</text>
+    <text x="20" y="66" class="desc">A plataforma FactoryOps é um ecossistema</text><text x="20" y="84" class="desc">industrial de alta tecnologia projetado</text><text x="20" y="102" class="desc">pela YUTA LTDA para unificar o…</text>
+    
+    <circle cx="25" cy="150" r="5" fill="#178600"/><text x="35" y="154" class="meta">C#</text><text x="280" y="154" class="meta" text-anchor="end">03/08/2026</text>
   </g>
 </svg>

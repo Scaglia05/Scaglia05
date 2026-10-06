@@ -15,9 +15,9 @@
       <rect width="300" height="4" fill="#08D9D6"/>
     </g>
     <rect x=".5" y=".5" width="299" height="169" rx="12" fill="none" stroke="#30363d"/>
-    <text x="20" y="38" class="nome">Grafo-SistemaEntregas</text>
-    <text x="20" y="66" class="desc">Menor caminho em grafo de logística</text><text x="20" y="84" class="desc">(centros de distribuição × clientes) com</text><text x="20" y="102" class="desc">Dijkstra e Bellman-Ford e mapa…</text>
-    <rect x="20" y="117" width="115" height="18" rx="9" class="pilula"/><text x="78" y="130" class="topico">academic-project</text><rect x="141.2" y="117" width="90" height="18" rx="9" class="pilula"/><text x="186" y="130" class="topico">bellman-ford</text>
-    <circle cx="25" cy="150" r="5" fill="#e34c26"/><text x="35" y="154" class="meta">HTML</text><text x="280" y="154" class="meta" text-anchor="end">06/09/2026</text>
+    <text x="20" y="38" class="nome">TesteAPIYoutubeActions</text>
+    <text x="20" y="66" class="desc">Teste0.1</text>
+    
+    <text x="280" y="154" class="meta" text-anchor="end">05/10/2026</text>
   </g>
 </svg>
