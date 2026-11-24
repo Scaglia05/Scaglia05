@@ -43,9 +43,9 @@ public class GuilhermeScaglia : Developer
 
 <!-- PROJETOS:INICIO -->
 <p align="center">
-  <a href="https://github.com/Scaglia05/Grafo-SistemaEntregas"><img src="./cards/projeto-1.svg" width="32%" alt="Grafo-SistemaEntregas" /></a>
-  <a href="https://github.com/Scaglia05/TesteAPIYoutubeActions"><img src="./cards/projeto-2.svg" width="32%" alt="TesteAPIYoutubeActions" /></a>
-  <a href="https://github.com/Scaglia05/Yuta.FactoryOps"><img src="./cards/projeto-3.svg" width="32%" alt="Yuta.FactoryOps" /></a>
+  <a href="https://github.com/Scaglia05/ComputacaoGrafica_BaixadaSantista"><img src="./cards/projeto-1.svg" width="32%" alt="ComputacaoGrafica_BaixadaSantista" /></a>
+  <a href="https://github.com/Scaglia05/Grafo-SistemaEntregas"><img src="./cards/projeto-2.svg" width="32%" alt="Grafo-SistemaEntregas" /></a>
+  <a href="https://github.com/Scaglia05/TesteAPIYoutubeActions"><img src="./cards/projeto-3.svg" width="32%" alt="TesteAPIYoutubeActions" /></a>
 </p>
 <!-- PROJETOS:FIM -->
 
